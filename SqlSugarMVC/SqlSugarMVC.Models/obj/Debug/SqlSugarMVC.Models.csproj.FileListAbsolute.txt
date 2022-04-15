@@ -1,0 +1,12 @@
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\SqlSugarMVC.Models.dll.config
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\SqlSugarMVC.Models.dll
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\SqlSugarMVC.Models.pdb
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\EntityFramework.dll
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\EntityFramework.xml
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\obj\Debug\SqlSugarMVC.Models.csproj.CoreCompileInputs.cache
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\obj\Debug\SqlSugarMVC.Models.csproj.CopyComplete
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\obj\Debug\SqlSugarMVC.Models.dll
+E:\VsProject\Stydy\C#\SqlSugar\SqlSugar\SqlSugarMVC\SqlSugarMVC.Models\obj\Debug\SqlSugarMVC.Models.pdb
